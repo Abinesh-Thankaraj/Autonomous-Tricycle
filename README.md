@@ -2,7 +2,7 @@
 
 ![Tricycle Preview](tricycle_preview.jpeg)
 
-An intelligent **Electric Autonomous Tricycle** designed to provide safe, independent mobility for differently-abled individuals and the general public. Built with accessibility, comfort, and autonomy in mind.
+An intelligent **Electric Autonomous Tricycle** designed to provide safe, independent mobility for differently-abled individuals, autistics and the general public. Built with accessibility, comfort, and autonomy in mind.
 
 ---
 
