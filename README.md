@@ -40,16 +40,6 @@ Focused on inclusive mobility, this project supports:
 
 ---
 
-## 📁 Repo Contents
-
-- `Design_Files.zip` – CAD and mechanical drawings  
-- `Electronics_Schematic.pdf` – Wiring layout  
-- `Demo_Video.zip` – Test ride and autonomy demo  
-- `Report.zip` – Technical & impact documentation  
-- `Presentation.zip` – Final pitch deck  
-
----
-
 ## 🛠️ Tools Used
 
 - **Fusion 360 / SolidWorks** – Design & simulation  
